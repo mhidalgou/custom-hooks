@@ -1,5 +1,5 @@
 import { useReducer, useEffect } from 'react';
-import { tareaPorHacerReducer } from '../08-useReducer/TareaPorHacerReducer';
+import { tareaPorHacerReducer } from './TareaPorHacerReducer';
 
 
 const recuperarTareasPorHacer=()=>{
